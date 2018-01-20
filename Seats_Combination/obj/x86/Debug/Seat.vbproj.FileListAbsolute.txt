@@ -1,0 +1,2 @@
+C:\Users\Ataei\Desktop\Problem A\Seats_Combination\obj\x86\Debug\Seat.vbprojResolveAssemblyReference.cache
+C:\Users\Ataei\Desktop\Problem A\Seats_Combination\obj\x86\Debug\Seat.vbproj.CoreCompileInputs.cache
